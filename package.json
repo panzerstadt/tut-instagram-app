@@ -1,0 +1,24 @@
+{
+  "name": "instagram-app",
+  "version": "1.0.0",
+  "description": "instagram node-js app with event driven updates from https://drive.google.com/file/d/1JjvlIy4bwWJdbM8jc1NczbVyTpZqC69R/view",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panzerstadt/tut-instagram-app.git"
+  },
+  "keywords": [
+    "instagram",
+    "metadata"
+  ],
+  "author": "Tang Li Qun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panzerstadt/tut-instagram-app/issues"
+  },
+  "homepage": "https://github.com/panzerstadt/tut-instagram-app#readme"
+}
